@@ -1,0 +1,4 @@
+.path
+.pro
+/node_modules/
+*.class
